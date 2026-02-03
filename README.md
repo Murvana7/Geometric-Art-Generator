@@ -1,8 +1,8 @@
-🎨 Geometric Art Generator
+# 🎨 Geometric Art Generator
 
 - A creative Geometric Art Generator that produces visually appealing geometric patterns using mathematical rules and randomness. This project explores the intersection of art, geometry, and code, allowing users to generate unique abstract designs with every run.
 
-✨ Features
+## ✨ Features
 
 - 🔺 Generates dynamic geometric patterns
 
@@ -16,7 +16,7 @@
 
 - 🎨 Minimal and modern visual style
 
-🛠️ Built With
+## 🛠️ Built With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
